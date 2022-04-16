@@ -1,0 +1,10 @@
+/* Este es un pequeño espacio para mis pruebas y como cada proyecto se va uniendo a mi portafolio trabajo en ello  */
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,700;1,800&family=Prompt:wght@500&family=Ramaraja&display=swap');
+:root{
+    --body-family: 'Montserrat', sans-serif, 'Prompt', sans-serif;
+}
+body{
+    /* background-color:red; */
+    font-family: var(--body-family);
+}
